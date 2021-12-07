@@ -1,0 +1,49 @@
+﻿*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+#logo{
+    color: black;
+    font-size: 30px;
+    padding-right: 80px;
+    font-weight: bold;
+}
+
+#menuItems{
+    display: flex;
+    list-style: none;
+    padding-left: 700px;
+}
+
+
+body {
+    background-color: #E2F5FF;
+}
+
+#cuadro {
+
+}
+
+#funciones {
+    border-radius: 4px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#titulo {
+    border-radius: 3px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    text-align: center;
+    border-bottom: 3px dashed black;
+
+}
+
+#tt {
+    text-align: center;
+    align-content: center;
+}
+
